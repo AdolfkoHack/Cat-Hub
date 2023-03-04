@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/AdolfkoHack/Cat-Hub/main/Cat-Hub-PSX-Script"))();
+loadstring(game:HttpGet("https://raw.githubusercontent.com/AdolfkoHack/Cat-Hub/main/Cat-Hub-Obfuscate", true))()
